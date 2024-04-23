@@ -1,0 +1,10 @@
+Package: qemu-system-riscv64
+Version: 8.2.0
+Architecture: amd64
+Maintainer: ZhiHai Dong <dong@example.com>
+Installed-Size: 123456
+Depends:libc6-riscv64-cross, binutils-riscv64-linux-gnu, gcc-riscv64-linux-gnu, binutils-riscv64-unknown-elf, gcc-riscv64-unknown-elf, autoconf, automake, autotools-dev, curl, libmpc-dev, libmpfr-dev, libgmp-dev, gawk, build-essential, bison, flex, texinfo, gperf, libtool, patchutils, bc, zlib1g-dev, libexpat-dev, pkg-config, libglib2.0-dev, libpixman-1-dev, libsdl2-dev, git, tmux, python3, python3-pip, ninja-build
+Homepage: https://www.qemu.org/
+Description: QEMU emulator for RISC-V 64-bit architecture
+ QEMU is a generic and open source machine emulator and virtualizer.
+ This package provides the QEMU emulator for the RISC-V 64-bit architecture.
