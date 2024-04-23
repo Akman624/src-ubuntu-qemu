@@ -1,3 +1,5 @@
 # src-ubuntu-qemu
 
-制作qemu的deb包
+在ubuntu 22.04环境下制作qemu的deb包
+
+
